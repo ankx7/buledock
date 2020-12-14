@@ -1,5 +1,5 @@
 # buledock
-Posizionarsi nella dirctory /opt
+Posizionarsi nella directory /opt
 
 cd /opt
 
