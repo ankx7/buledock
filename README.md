@@ -1,8 +1,8 @@
 # buledock
 Posizionarsi nella directory /opt
-
+```ruby
 cd /opt
-
+```
 
 Clonare da git:
 
