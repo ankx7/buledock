@@ -1,0 +1,16 @@
+version: '2.0'
+
+services:
+  debian-vg:
+    image: ankx7/buledock:1.00
+    container_name: buledock 
+    stdin_open: true # equivale al -i
+    tty: true # equivale al -t
+    ports:
+       - "8080:8080"
+    volumes:
+       - ./share:/root/share
+
+volumes:
+  share:
+
