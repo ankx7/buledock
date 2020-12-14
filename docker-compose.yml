@@ -1,7 +1,7 @@
 version: '2.0'
 
 services:
-  debian-vg:
+  buledock:
     image: ankx7/buledock:1.00
     container_name: buledock 
     stdin_open: true # equivale al -i
