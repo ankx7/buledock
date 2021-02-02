@@ -1,5 +1,6 @@
 # buledock
-Posizionarsi nella directory /opt
+
+Posizionarsi nella directory /opt:
 ```ruby
 cd /opt
 ```
